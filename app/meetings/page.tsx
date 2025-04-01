@@ -8,7 +8,7 @@ const meetings = [
 export default function Meetings() {
   const showMeetings = process.env.ACC_KEY === "staff_key";
 
-  if (!showMeetings) {
+  if (showMeetings) {
     return <Layout><p className="text-center text-gray-500">Meetings section is currently unavailable.</p></Layout>;
   }
 
