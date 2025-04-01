@@ -12,11 +12,11 @@ export default function Home() {
       {/* Add the image here */}
         <div className="mt-6">
           <Image
-            src="/freeuse.jpg",
-            alt="Strata Council Building",
-            width={600},
-            height={400},
-            priority,
+            src="/freeuse.jpg"
+            alt="Strata Council Building"
+            width={600}
+            height={400}
+            priority
             className="rounded-lg shadow-lg"
           />
         </div>
