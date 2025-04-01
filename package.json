@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "strata-gize",
-=======
   "name": "nextjs",
->>>>>>> 65bf49c8b59fcdc297b3d125437d3df464d28137
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,11 +12,8 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-<<<<<<< HEAD
-    "next": "15.2.4"
-=======
+    "next": "15.2.4",
     "next": "15.2.3"
->>>>>>> 65bf49c8b59fcdc297b3d125437d3df464d28137
   },
   "devDependencies": {
     "typescript": "^5",
