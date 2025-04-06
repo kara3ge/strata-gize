@@ -1,3 +1,10 @@
+/*
+ * Reference:
+ * Microsoft. (2025). Copilot (GPT-4) [Large Language Model]. https://copilot.microsoft.com/
+ * In-Text Citation:
+ * (Microsoft, 2025)
+ */
+
 import Layout from "../components/Layout";
 import "../app/globals.css";
 import Image from "next/image";
